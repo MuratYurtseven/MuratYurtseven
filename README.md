@@ -1,11 +1,12 @@
 <h2>Hi there 👋</h2>
 <h3>My Apps</h3>
 <br>
-<div style="width: 720px; border-radius: 15px; overflow: hidden;">
+<div style="width: 720px; border-radius: 15px !important; overflow: hidden !important;">
     <img src="https://github.com/user-attachments/assets/bfdb705a-1eb7-47a8-b46b-9472dceab6f9" 
          width="720" 
          alt="English Vocabulary: Flashcards Logo">
 </div>
+
 
 <p>
     <strong>English Vocabulary: Flashcards</strong> is an app designed to help you expand your English vocabulary effectively through interactive flashcards and fun learning games.
